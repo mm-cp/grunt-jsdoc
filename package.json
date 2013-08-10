@@ -42,10 +42,6 @@
     "grunt-contrib-nodeunit": "latest",
     "grunt-contrib-jshint": "latest"
   },
-  "dependencies": {
-    "jsdoc3": "https://github.com/jsdoc3/jsdoc.git",
-    "docstrap" : "https://github.com/terryweiss/docstrap"
-  },
   "peerDependencies": {
     "grunt": "0.4.x"
   },
